@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m currently working on research on 3D reconstruction field.<br>
+This is my <a href="https://haato-w.github.io/my-pages/myportfolio.html" target="_blank">**portfolio**</a> (Japanese).
+
+
 <!--
 **haato-w/haato-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
