@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I’m currently working on research on 3D reconstruction field.<br>
-This is my <a href="https://haato-w.github.io/my-pages/myportfolio.html" target="_blank">**portfolio**</a> (Japanese).
+These are my <br>
+<a href="https://haato-w.github.io/my-pages-en/myportfolio_en.html" target="_blank">**English HomePage**</a> and <br>
+<a href="https://haato-w.github.io/my-pages/myportfolio.html" target="_blank">**Japanese HomePage**</a>.
 
 
 <!--
