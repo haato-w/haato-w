@@ -1,11 +1,8 @@
 ### About
-Hi, I'm Haato Watanabe, a Master student at the <a href="https://www.i.u-tokyo.ac.jp/edu/course/ci/index_e.shtml" target="_blank">Creative Informatics Department</a> of the <a href="https://www.u-tokyo.ac.jp/en/index.html" target="_blank">University of Tokyo</a>, advised by Prof. <a href="https://cgenglab.github.io/en/authors/admin/" target="_blank">Nobuyuki Umetani</a>.<br>
-I study computer graphics. I'm especially working on 3D reconstruction field.<br>
+Hi, I'm Haato Watanabe, a Master student at the <a href="https://www.i.u-tokyo.ac.jp/edu/course/ci/index_e.shtml" target="_blank">Creative Informatics Department</a> of the <a href="https://www.u-tokyo.ac.jp/en/index.html" target="_blank">University of Tokyo</a>.<br>
+I study computer graphics and computer vision. I'm especially working on 3D reconstruction field.<br>
 <br>
 These are my <a href="https://haato-w.github.io/my-pages-en/myportfolio_en.html" target="_blank">**English HomePage**</a> and <a href="https://haato-w.github.io/my-pages/myportfolio.html" target="_blank">**Japanese HomePage**</a>.
-
-### Publications
-- <a href="https://haato-w.github.io/3d-gabor-splatting-project-page/" target="_blank">3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise</a>, Haato Watanabe, Kenji Tojo, Nobuyuki Umetani, Eurographics Association, Proceedings of the Eurographics 2025 Short Papers, 2025.
 
 <!--
 **haato-w/haato-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
